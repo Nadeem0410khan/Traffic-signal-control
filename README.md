@@ -34,7 +34,9 @@ State transition Table:
 | S3 | mnrd=R        |    sbrd=G|
 | S4 | mnrd=R        |    sbrd=Y |
 
+### SIMULATION RESULTS:
 
+![Simulation result](https://imgur.com/eKOdtQH.jpeg)
 
 
 
